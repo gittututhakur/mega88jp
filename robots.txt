@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mega88jp-jitu.de-rse.org/sitemap.xml
